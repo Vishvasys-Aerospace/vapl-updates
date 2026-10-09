@@ -1,0 +1,25 @@
+{
+  "schema": "vapl-fw-manifest/1",
+  "product": "gnc-s",
+  "channel": "bench",
+  "hardware": [
+    "xiao-nrf54l15"
+  ],
+  "version": "1.3.0",
+  "min_current_version": null,
+  "released_utc": "2026-10-09T13:16:34+00:00",
+  "notes": "Internet test",
+  "image": {
+    "file": "gnc-s-1.3.0.bin",
+    "size": 84308,
+    "sha256": "ca4610d66584f19bbecc38b0aeecba6e3925167c67f68be6b269852e07c4651f",
+    "mcuboot_hash": "41126174451f7861f4e3a9f0fce3e411ce46fb60d32946c12c58181be4831c90513cd34979120f546c19159e9104c751888669dcd4c9921f6dbc2f935bc93d83",
+    "encrypted": true
+  },
+  "keys": {
+    "firmware_signing": "c575:36f5:f768:5d04:ab57:0ddb:51fd:20d5",
+    "image_encryption": "7f03:94b3:f145:59f8:7b41:c27b:eb20:08c4"
+  },
+  "debug_lock_in_image": false,
+  "selftest": "bench"
+}
