@@ -5,15 +5,15 @@
   "hardware": [
     "xiao-nrf54l15"
   ],
-  "version": "2.0.2",
+  "version": "2.0.3",
   "min_current_version": null,
-  "released_utc": "2026-10-23T11:12:53+00:00",
-  "notes": "VAPL guidance law 1.1",
+  "released_utc": "2026-10-23T11:41:09+00:00",
+  "notes": "VAPL guidance law 1.2",
   "image": {
-    "file": "gnc-s-2.0.2.bin",
-    "size": 102660,
-    "sha256": "c0b74a179e95b651a134f4cbefc4136cb3370e52d304d3c2e01603b1dd88ca9a",
-    "mcuboot_hash": "84c34db32041faf098bfb1daa2c22ee78e26621415def9c797d4b04164b872f3d1f7547cb8d3d9e77aa49a26541d8c416e3bec82885e1282bff42e292fd9d967",
+    "file": "gnc-s-2.0.3.bin",
+    "size": 102932,
+    "sha256": "06ad078746cc20b98fb98c339acbe6593dd4eab544d7dd2c539e962f6f4ca755",
+    "mcuboot_hash": "712f1075a78b5450074832a47fd489108df55b6a295d60b34cbc2ff506898437faf8712cd344050d24daec7d2ed0b9c82e64b1e2cc6c4aa592210c6bc177bd9d",
     "encrypted": true
   },
   "keys": {
