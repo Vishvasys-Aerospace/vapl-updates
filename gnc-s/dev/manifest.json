@@ -5,15 +5,15 @@
   "hardware": [
     "xiao-nrf54l15"
   ],
-  "version": "2.0.9",
+  "version": "2.0.10",
   "min_current_version": null,
-  "released_utc": "2026-10-24T13:12:24+00:00",
+  "released_utc": "2026-10-24T13:29:11+00:00",
   "notes": "single uart",
   "image": {
-    "file": "gnc-s-2.0.9.bin",
+    "file": "gnc-s-2.0.10.bin",
     "size": 109524,
-    "sha256": "4c780302d4b103128ba0acda3dbdcbe3f6940c6ffffe3c9d2ab89ce092028ac9",
-    "mcuboot_hash": "f5c2aef4a11bc013a1b919d5d4ea6ef0ce7b2d60bdbd4ef88e5e7a3cc5c43716f56d5861f6a24d17f5347a3a4b849a333a3fac53c68a7681bcf67790db977eda",
+    "sha256": "e2fdfba716466155fe22432f517d536d87d32e0bc3bdcbb7e0bbce5e35ddb6a9",
+    "mcuboot_hash": "57f59754a59e2171f69eaa9c03f0736ba54cdc67d570386b2f32e6934b5f043278a967da38ed69761e05af910370b161aecad0daa0d5a85170e8f2dae64370ea",
     "encrypted": true
   },
   "keys": {
