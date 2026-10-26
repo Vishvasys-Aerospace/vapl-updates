@@ -1,0 +1,25 @@
+{
+  "schema": "vapl-fw-manifest/1",
+  "product": "gnc-s",
+  "channel": "dev",
+  "hardware": [
+    "xiao-nrf54lm20a"
+  ],
+  "version": "1.0.1",
+  "min_current_version": null,
+  "released_utc": "2026-10-26T11:04:01+00:00",
+  "notes": "First nRF54LM20A release",
+  "image": {
+    "file": "gnc-s-1.0.1.bin",
+    "size": 130580,
+    "sha256": "bd5966040a7cc0bfbb052f354a1971233a1b6f150fab9b6585165ffff2fadb0f",
+    "mcuboot_hash": "c78ba55f2a47f2b63b5a85deba00c2ab27cbaf2ccb3793fef0d21e536ac8cda4151e4e11374a90a25a653998faf10a11dad352a9f760ce49d4ed6777521c5235",
+    "encrypted": true
+  },
+  "keys": {
+    "firmware_signing": "c575:36f5:f768:5d04:ab57:0ddb:51fd:20d5",
+    "image_encryption": "7f03:94b3:f145:59f8:7b41:c27b:eb20:08c4"
+  },
+  "debug_lock_in_image": false,
+  "selftest": "checkin"
+}
