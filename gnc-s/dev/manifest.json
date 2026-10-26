@@ -5,15 +5,15 @@
   "hardware": [
     "xiao-nrf54lm20a"
   ],
-  "version": "1.0.1",
+  "version": "1.0.3",
   "min_current_version": null,
-  "released_utc": "2026-10-26T11:04:01+00:00",
+  "released_utc": "2026-10-26T14:22:25+00:00",
   "notes": "First nRF54LM20A release",
   "image": {
-    "file": "gnc-s-1.0.1.bin",
+    "file": "gnc-s-1.0.3.bin",
     "size": 130580,
-    "sha256": "bd5966040a7cc0bfbb052f354a1971233a1b6f150fab9b6585165ffff2fadb0f",
-    "mcuboot_hash": "c78ba55f2a47f2b63b5a85deba00c2ab27cbaf2ccb3793fef0d21e536ac8cda4151e4e11374a90a25a653998faf10a11dad352a9f760ce49d4ed6777521c5235",
+    "sha256": "c91f440083f2e071c6c9d491fc1c0ecc0408b85f71e8d1bc23c9953115b132a8",
+    "mcuboot_hash": "7ca86d833ad042519fd1d5332dc203766c93f7efe11424be74e631493f9693488f31037d16a767a85073ce75cfc232e2a5c36b81c9b4714a1d61415f7b696d01",
     "encrypted": true
   },
   "keys": {
